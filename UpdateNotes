@@ -1,0 +1,10 @@
+Update notes for update 2.1:
+
+    Client#
+        Automatic (force) overwrite added for "convert_video_to_audio" function
+
+        Reworked menu list
+
+
+
+    Server#
